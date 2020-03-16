@@ -115,7 +115,7 @@ def message_room(chat_id):
     keybord.add(item1)
     bot.send_message(chat_id, 'Отлично, идём дальше', reply_markup=keybord)
 
-    markup = types.InlineKeyboardMarkup(row_width=1)
+    markup = types.InlineKeyboardMarkup(row_width=2)
     item1 = types.InlineKeyboardButton("1", callback_data='room')
     item2 = types.InlineKeyboardButton("2", callback_data='room')
     item3 = types.InlineKeyboardButton("3", callback_data='room')
