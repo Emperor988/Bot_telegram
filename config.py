@@ -1,1 +1,2 @@
- TOKEN = "1076383664:AAH2KP2Uqh8_zd8-JX-8YjbpnwrhL6NPx9E"  # Токен бота
+token_bot = '1076383664:AAH79kaWVgTDE4l3EQi68d7Kel3ZMIFHcW4'
+gv_calendarId = 'o685qbmudvk6su1j6di61utk8k@group.calendar.google.com'
